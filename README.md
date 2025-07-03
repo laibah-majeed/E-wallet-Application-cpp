@@ -71,4 +71,4 @@ To leverage my software engineering skills to build impactful and real-world sol
 
 ---
 
-## Feel free to fork, star, and contribute!
+## Feel free to explore the repository and contribute!
