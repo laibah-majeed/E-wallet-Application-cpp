@@ -60,7 +60,7 @@ e-wallet-application/
 ## Author
 
 **Laiba Majeed**  
-- [LinkedIn](www.linkedin.com/in/laibah-majeed)  
+- [LinkedIn](https://www.linkedin.com/in/laibah-majeed/)  
 - BS Software Engineering Student
 
 ---
